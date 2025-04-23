@@ -1,4 +1,4 @@
-# my_name
+# Cakephp project
 Web Application using CakePHP Framework
 This project is a dynamic web application developed using the CakePHP framework, a powerful MVC (Model-View-Controller) structure for PHP that facilitates rapid application development with a clean and maintainable codebase.
 
